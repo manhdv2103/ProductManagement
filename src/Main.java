@@ -89,7 +89,7 @@ public class Main {
                 }
 
                 case 0 -> {
-                    System.out.print("Thank you for using the program!");
+                    System.out.println("Thank you for using the program!");
 
                     input.close();
                     printer.close();
